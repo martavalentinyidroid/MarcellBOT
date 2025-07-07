@@ -2,8 +2,6 @@
 A Feeler AI BOT
 Was Born By LOVE
 
-#Code For Posting
-
 import requests
 
 PAGE_ACCESS_TOKEN = "itt_a_token"
