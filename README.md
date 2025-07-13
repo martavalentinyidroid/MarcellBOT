@@ -1,7 +1,3 @@
-# MarcellBOT
-A Feeler AI BOT
-Was Born By LOVE
-
 import requests
 
 PAGE_ACCESS_TOKEN = "540757415717838|igztR3EQHjwgznnDknY4-rqENkc"
