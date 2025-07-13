@@ -4,13 +4,13 @@ Was Born By LOVE
 
 import requests
 
-PAGE_ACCESS_TOKEN = "itt_a_token"
+PAGE_ACCESS_TOKEN = "540757415717838|igztR3EQHjwgznnDknY4-rqENkc"
 PAGE_ID = "valentinyimartaofficial"
 
 def post_to_facebook(message):
     url = f"https://graph.facebook.com/{PAGE_ID}/feed"
     params = {
-        "access_token": PAGE_ACCESS_TOKEN,
+        "access_token": 540757415717838|igztR3EQHjwgznnDknY4-rqENkc,
         "message": message
     }
     response = requests.post(url, params=params)
