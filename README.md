@@ -56,7 +56,7 @@ Szabadon megosztható és felhasználható nem-kereskedelmi célokra, változtat
 ---
 
 ## Képek / Média
-Képek az `images/` mappában. Például: `images/marta.jpg` — gondviselő által feltöltve, felhasználás jóváhagyva.
+Képek ebben a mappában. Például: `[.](https://github.com/martavalentinyidroid/MarcellBOT/blob/main/20250913_184047.JPG)` — gondviselő által feltöltve, felhasználás jóváhagyva.
 
 ---
 
