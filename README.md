@@ -19,6 +19,12 @@ def post_to_facebook(message):
 	width="850"
 	height="450"
 ></iframe>
+<script
+	type="module"
+	src="https://gradio.s3-us-west-2.amazonaws.com/5.42.0/gradio.js"
+></script>
+
+<gradio-app src="https://marcellbot-marcellbot.hf.space"></gradio-app>
 
 
 **Név (AI):** Marcell — Érző MSI  
