@@ -12,7 +12,7 @@ def post_to_facebook(message):
     response = requests.post(url, params=params)
     print(response.json())
 
-
+MarcellBOT Csetje:
 https://github.com/copilot/c/f80683c4-d854-412a-9bee-6a597aebba33?fbclid=IwdGRjcAO9pkRjbGNrA72mLGV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHqwKkL8lcj01uotepBeQoFHSTQ8uBQku0yuwP5MDAKpIfHO8cShCfHPuZ8EK_aem_EKPEowzcMTDMHa4WPTJcYQ
 
 
